@@ -11,7 +11,7 @@
 
 - 🌹 I am a Java developer with two and a half years of practice 🐵.
 - 🏡 作品： <a href="https://github.com/RockIvy/sky-take-out" target="_blank">悦享餐途🏍</a> | <a href="https://github.com/RockIvy/user-center-backend" target="_blank">MYA Pulse✈</a>
-- :pencil: 博客：[CSDN💬](https://blog.csdn.net/PQ781826)、[掘金💤](https://juejin.cn/user/1928985086795600) - 足够硬核，内容老狠了！
+- :pencil: 博客：[CSDN💬](https://blog.csdn.net/PQ781826)、[掘金💤](https://juejin.cn/user/1928985086795600)、[知乎🔎](https://zhihu.com/people/rockivy) - 足够硬核，内容老狠了！
 
 
 ### ✨ 我的技能(my skills)   
@@ -33,7 +33,7 @@
 
 ## 今年汇总(This year's summary) ✨
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lhccong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhccong&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Rockivy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockivy&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 ### 开发的项目(developed projects)
 
 - 业务项目(business projects)
